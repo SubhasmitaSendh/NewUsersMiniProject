@@ -1,4 +1,4 @@
-Welcome Email Automation Bot – UiPath Project
+## Welcome Email Automation Bot – UiPath Project
 📌 Project Overview
 This UiPath automation project streamlines the onboarding process by reading user data from an Excel file and sending personalized welcome emails automatically.
 The bot identifies users who have not yet received an email, sends customized welcome messages, updates the status in Excel, and prevents duplicate email sending.
